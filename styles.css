@@ -1,5 +1,17 @@
+.wrapper {
+  width: 765px;
+  margin: 20px auto;
+}
 
-/* Your CSS Code here. */
-#player__buttontoggle{
-	width:32px;
+#progress__filled {
+  width: 100%;
+  cursor: pointer;
+}
+
+#player__buttontoggle {
+  width: 50px;
+}
+
+#volume {
+  width: 120px;
 }
